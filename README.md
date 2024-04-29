@@ -78,7 +78,7 @@ String pessoaEscolhida = s.choice(pessoas);
 print("A pessoa escolhida foi: ${pessoaEscolhida}.");
 ```
 ```
-A pessoa escolhida foi: Ingrid.
+>>> A pessoa escolhida foi: Ingrid.
 ```
 
 ### Classe Mat()
@@ -94,7 +94,7 @@ double media = mat.media(notas);
 print("A média é $media");
 ```
 ```
-A média é 5.375
+>>> A média é 5.375
 ```
 
 ## Informação Adicional
